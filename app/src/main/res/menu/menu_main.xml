@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/ic_launcher_background"
+        android:orderInCategory="100"
+        />
+
+    <item
+        android:id="@+id/github"
+        android:title="@string/github"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/ic_launcher_background"
+        android:orderInCategory="50"
+        />
+
+    <item
+        android:id="@+id/notif"
+        android:title="@string/notif"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/ic_launcher_background"
+        android:orderInCategory="25"
+        />
+
+    <item
+        android:id="@+id/info"
+        android:title="@string/info"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_info_details"
+        />
+</menu>

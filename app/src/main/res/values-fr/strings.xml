@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NBA Reference</string>
+    <string name="exit">Retour en arrière</string>
+    <string name="github">Consulter mon projet github</string>
+    <string name="message_exit">Etes-vous sur ?</string>
+    <string name="negative">Non</string>
+    <string name="positive">Oui</string>
+    <string name="message_close">Retour en arrière effectué</string>
+    <string name="search">Rechercher</string>
+    <string name="notif">Notification de bienvenue</string>
+    <string name="intro">Bienvenue sur NBA Reference</string>
+    <string name="info">Info</string>
+    <string name="message_info">Melissa GENOVESE (32)</string>
+    <string name="players">Joueurs</string>
+    <string name="players_info">Rechercher tous les joueurs NBA</string>
+    <string name="teams">Equipes</string>
+    <string name="teams_info">Rechercher toutes les équipes NBA</string>
+    <string name="standings">Classements</string>
+    <string name="standings_info">Consulter les classements en ligne</string>
+    <string name="webpage">Page web</string>
+    <string name="webpage_info">Aller sur le site Basketball Reference</string>
+    <string name="message_teams">Appuyer sur les équipes pour accéder à plus d\'infos</string>
+    <string name="statsteam">Equipe:</string>
+    <string name="History">Histoire de la franchise</string>
+    <string name="message_swipe">Descendre pour afficher plus d\'infos</string>
+    <string name="home">ACCUEIL</string>
+    <string name="message_selection">Sélectionner une conférence</string>
+    <string name="PLAYERS">JOUEURS</string>
+    <string name="TEAMS">EQUIPES</string>
+    <string name="STANDINGS">CLASSEMENTS</string>
+</resources>
