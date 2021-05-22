@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NBA Reference</string>
+    <string name="exit">Go back</string>
+    <string name="github">Consult my github repository</string>
+    <string name="message_exit">Do you really want to ?</string>
+    <string name="negative">No</string>
+    <string name="positive">Yes</string>
+    <string name="message_close">Back done</string>
+    <string name="search">Search</string>
+    <string name="notif">Welcome notification</string>
+    <string name="intro">Welcome to NBA Reference</string>
+    <string name="info">Info</string>
+    <string name="message_info">Melissa GENOVESE (32)</string>
+    <string name="players">Players</string>
+    <string name="players_info">Check all current NBA Players</string>
+    <string name="teams">Teams</string>
+    <string name="teams_info">Check all current NBA Teams</string>
+    <string name="standings">Standings</string>
+    <string name="standings_info">Check online standings</string>
+    <string name="webpage">Web Page</string>
+    <string name="webpage_info">Check basketball reference website</string>
+    <string name="message_teams">Press on teams to access to more informations</string>
+    <string name="statsteam">Team:</string>
+    <string name="History">History</string>
+    <string name="message_swipe">Swipe  up to read more</string>
+    <string name="home">Home</string>
+    <string name="message_selection">Select a conference</string>
+    <string name="PLAYERS">PLAYERS</string>
+    <string name="TEAMS">TEAMS</string>
+    <string name="STANDINGS">STANDINGS</string>
+</resources>
